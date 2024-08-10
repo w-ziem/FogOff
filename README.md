@@ -1,0 +1,1 @@
+This is a simple product website, following a design I found on interner and built on Webflow, but I wanted to try it out with my own code. 
